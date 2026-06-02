@@ -1,0 +1,82 @@
+[
+  {
+    "id": "lumina-design",
+    "title": "LuminaDesign",
+    "tags": ["Portfolio"],
+    "description": "A warm, approachable, professional, and highly creative single-page static website for a premium personal portfolio.",
+    "url": "https://ai.studio/apps/1907578f-7776-46a4-8d0e-81d45fc913c7",
+    "image": "Images/creative-agency-portfolio-website-mockup-banner.jpg.png"
+  },
+  {
+    "id": "aura-tech",
+    "title": "AuraTech",
+    "tags": ["SaaS", "Technology"],
+    "description": "A premium, modern SaaS startup landing page with a clean, vibrant, and trustworthy aesthetic.",
+    "url": "https://ai.studio/apps/2c24645f-0571-4e14-b5a9-a6399e404e43",
+    "image": "Images/premium-ai-agency-web-template.jpg.png"
+  },
+  {
+    "id": "alex-design",
+    "title": "AlexDesign",
+    "tags": ["Portfolio"],
+    "description": "A modern, approachable, and highly professional personal portfolio single-page static website for a UI/UX Designer.",
+    "url": "https://ai.studio/apps/7342f141-fbd3-4be6-93f1-6ab49286953f",
+    "image": "Images/portfolio-ui-design-template-3d-mockup.jpg.png"
+  },
+  {
+    "id": "lumina-interior",
+    "title": "Lumina Interior",
+    "tags": ["Interior Design"],
+    "description": "A premium, editorial, minimalist, and deeply sophisticated single-page static website for a high-end interior design and architecture agency.",
+    "url": "https://ai.studio/apps/41a088ce-2c2a-40cf-ae84-45511384ae75",
+    "image": "Images/premium-interior-design-website-template.jpg.png"
+  },
+  {
+    "id": "nova-care",
+    "title": "NovaCare",
+    "tags": ["Healthcare"],
+    "description": "A highly trustworthy, professional, calming, and modern single-page static website for a premium healthcare clinic.",
+    "url": "https://ai.studio/apps/e2e58cb1-11a0-45e1-b9ef-f7f5053103fb",
+    "image": "Images/premium-medical-healthcare-website-template-mockup.jpg.png"
+  },
+  {
+    "id": "aura-fit",
+    "title": "AuraFit",
+    "tags": ["Fitness", "Gym"],
+    "description": "A clean, modern, revitalizing, and approachable single-page static website for premium health, fitness, and wellness services.",
+    "url": "https://ai.studio/apps/14de30cc-0746-4ed6-8b62-de9dcba4b726",
+    "image": "Images/aura-wellness-premium-website-template-mockup.jpg.png"
+  },
+  {
+    "id": "zenith-design",
+    "title": "ZenithDesign",
+    "tags": ["Interior Design", "Architecture"],
+    "description": "A premium, modern, minimalist, and serene single-page static website for a high-end interior and architectural design firm.",
+    "url": "https://ai.studio/apps/d3791be9-f170-49b1-94f5-c724b7ee0d40",
+    "image": "Images/responsive-ai-website-builder-prompts.jpg.png"
+  },
+  {
+    "id": "urban-space-storage",
+    "title": "UrbanSpaceStorage",
+    "tags": ["Services", "Storage"],
+    "description": "A highly professional, trustworthy, accessible, and modern single-page static website for urban self-storage solutions.",
+    "url": "https://ai.studio/apps/ebb5af66-0c6b-4585-ac68-04e0fec61ae7",
+    "image": "Images/premium-ai-website-prompts-mockup.jpg.png"
+  },
+  {
+    "id": "nova-finance",
+    "title": "NovaFinance",
+    "tags": ["Finance", "Fintech"],
+    "description": "A premium, highly trustworthy, sleek, and modern single-page static website for a cutting-edge neo-bank or top-tier fintech startup.",
+    "url": "https://ai.studio/apps/d42dcb5f-7829-4310-876a-d74e197b1143",
+    "image": "Images/novafinance-premium-ai-banking-website-template-mockup.jpg.png"
+  },
+  {
+    "id": "fin-nova",
+    "title": "FinNova",
+    "tags": ["Finance", "Fintech"],
+    "description": "A premium, trustworthy, clean, and highly intuitive single-page static website for a modern fintech startup.",
+    "url": "https://ai.studio/apps/caa1e1ad-6998-421c-95bf-70548ba068c9",
+    "image": "Images/premium-fintech-banking-website-template-mockup.jpg.png"
+  }
+]
